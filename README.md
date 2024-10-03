@@ -8,3 +8,5 @@ the same thing applies to USBBoardInfo ([USBBoardInfo.json](https://github.com/m
 This repository follows the same idea behind https://github.com/mavlink/qgroundcontrol/pull/10469, the structure is based on the [ArduPilot manifest format](https://firmware.ardupilot.org/manifest.json).
 
 Files should be **updated every monday**.
+
+Also check [PX4-parameters](https://github.com/patrickelectric/) repository.
