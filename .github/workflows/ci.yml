@@ -1,0 +1,44 @@
+name: Sync PX4 manifest
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 11 * * 1' # Every Monday at 8AM GMT-3 (When I start working)
+  workflow_dispatch:
+
+jobs:
+  fetch-files:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Clone Px4 repository to temporary folder
+      run: |
+        git clone https://github.com/PX4/PX4-Autopilot /tmp/px4
+
+    - name: Generate manifest file
+      run: python main.py /tmp/px4 > manifest.json
+
+    - uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: "Update files from ${{steps.fetch.outputs.date}}"
+
+    - name: Keep Action Alive
+      run: echo "Keep Action Alive"
+
+  keepalive-job:
+    name: Keepalive Workflow
+    if: ${{ always() }}
+    needs: fetch-files
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/keepalive-workflow@v2
+        with:
+          use_api: false
