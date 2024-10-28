@@ -109,7 +109,7 @@
     ]
   },
   {
-    "board_id": 1054,
+    "board_id": 1058,
     "platform": "holybro_kakuteh7mini_default",
     "USBID": [
       "0x3162/0x0050",
@@ -118,7 +118,7 @@
     "brand_name": "Holybro",
     "manufacturer": "Holybro",
     "description": "Firmware for the KakuteH7Mini board",
-    "summary": "KAKUTEH7MINI-NAND",
+    "summary": "KAKUTEH7MINI",
     "bootloader_str": [
       "holybro_kakuteh7mini",
       "Holybro"
