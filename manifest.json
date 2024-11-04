@@ -77,6 +77,18 @@
     ]
   },
   {
+    "board_id": 87,
+    "platform": "holybro_h-flow_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the Holybro H-Flow board",
+    "summary": "Holybro-H-Flow",
+    "bootloader_str": [
+      "holybro_h-flow"
+    ]
+  },
+  {
     "board_id": 1048,
     "platform": "holybro_kakuteh7_default",
     "USBID": [
@@ -386,6 +398,22 @@
     "summary": "ARKFMUv6X",
     "bootloader_str": [
       "ark_fmu-v6x",
+      "ARK"
+    ]
+  },
+  {
+    "board_id": 59,
+    "platform": "ark_fpv_default",
+    "USBID": [
+      "0x3185/0x003B",
+      "0x3185/0x003B"
+    ],
+    "brand_name": "ARK",
+    "manufacturer": "ARK",
+    "description": "Firmware for the ARKFPV board",
+    "summary": "ARKFPV",
+    "bootloader_str": [
+      "ark_fpv",
       "ARK"
     ]
   },
