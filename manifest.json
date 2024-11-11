@@ -1111,6 +1111,21 @@
     ]
   },
   {
+    "board_id": 36,
+    "platform": "nxp_tropic-community_default",
+    "USBID": [
+      "0x1FC9/0x0024"
+    ],
+    "brand_name": "NXP SEMICONDUCTORS",
+    "manufacturer": "NXP SEMICONDUCTORS",
+    "description": "Firmware for the TROPIC Community board",
+    "summary": "TROPIC Community",
+    "bootloader_str": [
+      "nxp_tropic-community",
+      "NXP SEMICONDUCTORS"
+    ]
+  },
+  {
     "board_id": 30,
     "platform": "nxp_fmuk66-e_default",
     "USBID": [
