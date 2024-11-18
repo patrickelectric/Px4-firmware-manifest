@@ -62,6 +62,22 @@
     ]
   },
   {
+    "board_id": 1176,
+    "platform": "micoair_h743-aio_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x3162/0x004b"
+    ],
+    "brand_name": "MicoAir",
+    "manufacturer": "MicoAir",
+    "description": "Firmware for the MicoAir743AIO board",
+    "summary": "MicoAir743AIO",
+    "bootloader_str": [
+      "micoair_h743-aio",
+      "MicoAir"
+    ]
+  },
+  {
     "board_id": 78,
     "platform": "holybro_pix32v5_default",
     "USBID": [
