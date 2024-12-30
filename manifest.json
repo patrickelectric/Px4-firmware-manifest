@@ -46,6 +46,22 @@
     ]
   },
   {
+    "board_id": 1179,
+    "platform": "micoair_h743-v2_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x3162/0x004b"
+    ],
+    "brand_name": "MicoAir",
+    "manufacturer": "MicoAir",
+    "description": "Firmware for the MicoAir743v2 board",
+    "summary": "MicoAir743v2",
+    "bootloader_str": [
+      "micoair_h743-v2",
+      "MicoAir"
+    ]
+  },
+  {
     "board_id": 1166,
     "platform": "micoair_h743_default",
     "USBID": [
@@ -387,6 +403,18 @@
     "summary": "ARKCANNODE",
     "bootloader_str": [
       "ark_cannode"
+    ]
+  },
+  {
+    "board_id": 86,
+    "platform": "ark_teseo-gps_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK Teseo GPS board",
+    "summary": "ARKTESEOGPS",
+    "bootloader_str": [
+      "ark_teseo-gps"
     ]
   },
   {
