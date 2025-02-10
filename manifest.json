@@ -364,6 +364,18 @@
     ]
   },
   {
+    "board_id": 88,
+    "platform": "ark_can-flow-mr_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK Flow MR board",
+    "summary": "ARKFLOWMR",
+    "bootloader_str": [
+      "ark_can-flow-mr"
+    ]
+  },
+  {
     "board_id": 81,
     "platform": "ark_can-gps_default",
     "USBID": [],
