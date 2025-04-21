@@ -848,6 +848,18 @@
     ]
   },
   {
+    "board_id": 60,
+    "platform": "auterion_fmu-v6s_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the AutFMUv6S board",
+    "summary": "AutFMUv6S",
+    "bootloader_str": [
+      "auterion_fmu-v6s"
+    ]
+  },
+  {
     "board_id": 1176,
     "platform": "micoair_h743-aio_default",
     "USBID": [
