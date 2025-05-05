@@ -339,6 +339,22 @@
     ]
   },
   {
+    "board_id": 1105,
+    "platform": "holybro_kakuteh7-wing_default",
+    "USBID": [
+      "0x3162/0x0050",
+      "0x3162/0x0051"
+    ],
+    "brand_name": "Holybro",
+    "manufacturer": "Holybro",
+    "description": "Firmware for the Holybro KakuteH7-Wing board",
+    "summary": "KAKUTEH7-WING",
+    "bootloader_str": [
+      "holybro_kakuteh7-wing",
+      "Holybro"
+    ]
+  },
+  {
     "board_id": 7000,
     "platform": "cuav_7-nano_default",
     "USBID": [
@@ -1192,6 +1208,22 @@
     "summary": "UCANS32K146",
     "bootloader_str": [
       "nxp_mr-canhubk3"
+    ]
+  },
+  {
+    "board_id": 1188,
+    "platform": "corvon_743v1_default",
+    "USBID": [
+      "0x3162/0x004b",
+      "0x1B8C/0x0036"
+    ],
+    "brand_name": "CORVON",
+    "manufacturer": "CORVON",
+    "description": "Firmware for the CORVON743v1 board",
+    "summary": "CORVON743v1",
+    "bootloader_str": [
+      "corvon_743v1",
+      "CORVON"
     ]
   },
   {
