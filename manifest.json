@@ -1,322 +1,5 @@
 [
   {
-    "board_id": 1166,
-    "platform": "micoair_h743_default",
-    "USBID": [
-      "0x1B8C/0x0036",
-      "0x3162/0x004b"
-    ],
-    "brand_name": "MicoAir",
-    "manufacturer": "MicoAir",
-    "description": "Firmware for the MicoAir743 board",
-    "summary": "MicoAir743",
-    "bootloader_str": [
-      "micoair_h743",
-      "MicoAir"
-    ]
-  },
-  {
-    "board_id": 1176,
-    "platform": "micoair_h743-aio_default",
-    "USBID": [
-      "0x1B8C/0x0036",
-      "0x3162/0x004b"
-    ],
-    "brand_name": "MicoAir",
-    "manufacturer": "MicoAir",
-    "description": "Firmware for the MicoAir743AIO board",
-    "summary": "MicoAir743AIO",
-    "bootloader_str": [
-      "micoair_h743-aio",
-      "MicoAir"
-    ]
-  },
-  {
-    "board_id": 1179,
-    "platform": "micoair_h743-v2_default",
-    "USBID": [
-      "0x1B8C/0x0036",
-      "0x3162/0x004b"
-    ],
-    "brand_name": "MicoAir",
-    "manufacturer": "MicoAir",
-    "description": "Firmware for the MicoAir743v2 board",
-    "summary": "MicoAir743v2",
-    "bootloader_str": [
-      "micoair_h743-v2",
-      "MicoAir"
-    ]
-  },
-  {
-    "board_id": 42,
-    "platform": "raspberrypi_pico_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the raspberry pi Pico board",
-    "summary": "RaspberrypiPico",
-    "bootloader_str": [
-      "raspberrypi_pico"
-    ]
-  },
-  {
-    "board_id": 97,
-    "platform": "atl_mantis-edu_default",
-    "USBID": [
-      "0x26ac/0x0061"
-    ],
-    "brand_name": "Advanced Technology Labs",
-    "manufacturer": "Advanced Technology Labs",
-    "description": "Firmware for the Advanced Technology Labs (ATL) Mantis EDU (V18S) board",
-    "summary": "atl_mantis-edu",
-    "bootloader_str": [
-      "atl_mantis-edu",
-      "Advanced Technology Labs"
-    ]
-  },
-  {
-    "board_id": 42,
-    "platform": "diatone_mamba-f405-mk2_default",
-    "USBID": [
-      "0x26ac/0x0001"
-    ],
-    "brand_name": "Diatone",
-    "manufacturer": "Diatone",
-    "description": "Firmware for the MambaF405Mk2 board",
-    "summary": "PX4/MambaF405",
-    "bootloader_str": [
-      "diatone_mamba-f405-mk2",
-      "Diatone"
-    ]
-  },
-  {
-    "board_id": 87,
-    "platform": "holybro_h-flow_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the Holybro H-Flow board",
-    "summary": "Holybro-H-Flow",
-    "bootloader_str": [
-      "holybro_h-flow"
-    ]
-  },
-  {
-    "board_id": 1048,
-    "platform": "holybro_kakuteh7_default",
-    "USBID": [
-      "0x3162/0x0050",
-      "0x3162/0x0050"
-    ],
-    "brand_name": "Holybro",
-    "manufacturer": "Holybro",
-    "description": "Firmware for the KakuteH7 board",
-    "summary": "KAKUTEH7",
-    "bootloader_str": [
-      "holybro_kakuteh7",
-      "Holybro"
-    ]
-  },
-  {
-    "board_id": 123,
-    "platform": "holybro_kakutef7_default",
-    "USBID": [
-      "0x26ac/0x0050"
-    ],
-    "brand_name": "Holybro",
-    "manufacturer": "Holybro",
-    "description": "Firmware for the Holybro Kakute F7 board",
-    "summary": "KAKUTEF7",
-    "bootloader_str": [
-      "holybro_kakutef7",
-      "Holybro"
-    ]
-  },
-  {
-    "board_id": 5409,
-    "platform": "holybro_kakuteh7dualimu_default",
-    "USBID": [
-      "0x3162/0x0050",
-      "0x3162/0x0050"
-    ],
-    "brand_name": "Holybro",
-    "manufacturer": "Holybro",
-    "description": "Firmware for the KakuteH7 board",
-    "summary": "KAKUTEH7",
-    "bootloader_str": [
-      "holybro_kakuteh7dualimu",
-      "Holybro"
-    ]
-  },
-  {
-    "board_id": 1058,
-    "platform": "holybro_kakuteh7mini_default",
-    "USBID": [
-      "0x3162/0x0050",
-      "0x3162/0x0050"
-    ],
-    "brand_name": "Holybro",
-    "manufacturer": "Holybro",
-    "description": "Firmware for the KakuteH7Mini board",
-    "summary": "KAKUTEH7MINI",
-    "bootloader_str": [
-      "holybro_kakuteh7mini",
-      "Holybro"
-    ]
-  },
-  {
-    "board_id": 139,
-    "platform": "holybro_durandal-v1_default",
-    "USBID": [
-      "0x3162/0x004b",
-      "0x3162/0x004b"
-    ],
-    "brand_name": "Holybro",
-    "manufacturer": "Holybro",
-    "description": "Firmware for the Durandalv1 board",
-    "summary": "DURANDALv1",
-    "bootloader_str": [
-      "holybro_durandal-v1",
-      "Holybro"
-    ]
-  },
-  {
-    "board_id": 79,
-    "platform": "holybro_can-gps-v1_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the Holybro CAN GPS board",
-    "summary": "HolybroCANGPS",
-    "bootloader_str": [
-      "holybro_can-gps-v1"
-    ]
-  },
-  {
-    "board_id": 78,
-    "platform": "holybro_pix32v5_default",
-    "USBID": [
-      "0x3162/0x004E"
-    ],
-    "brand_name": "Holybro",
-    "manufacturer": "Holybro",
-    "description": "Firmware for the PX4FMUv5 board",
-    "summary": "PX4FMUv5",
-    "bootloader_str": [
-      "holybro_pix32v5",
-      "Holybro"
-    ]
-  },
-  {
-    "board_id": 1105,
-    "platform": "holybro_kakuteh7-wing_default",
-    "USBID": [
-      "0x3162/0x0051",
-      "0x3162/0x0050"
-    ],
-    "brand_name": "Holybro",
-    "manufacturer": "Holybro",
-    "description": "Firmware for the Holybro KakuteH7-Wing board",
-    "summary": "KAKUTEH7-WING",
-    "bootloader_str": [
-      "holybro_kakuteh7-wing",
-      "Holybro"
-    ]
-  },
-  {
-    "board_id": 1053,
-    "platform": "holybro_kakuteh7v2_default",
-    "USBID": [
-      "0x3162/0x0050",
-      "0x3162/0x0050"
-    ],
-    "brand_name": "Holybro",
-    "manufacturer": "Holybro",
-    "description": "Firmware for the KakuteH7v2 board",
-    "summary": "KAKUTEH7V2",
-    "bootloader_str": [
-      "holybro_kakuteh7v2",
-      "Holybro"
-    ]
-  },
-  {
-    "board_id": 12,
-    "platform": "bitcraze_crazyflie_default",
-    "USBID": [
-      "0x26ac/0x0016"
-    ],
-    "brand_name": "Bitcraze AB",
-    "manufacturer": "Bitcraze AB",
-    "description": "Firmware for the Crazyflie 2.0",
-    "summary": "CRAZYFLIE",
-    "bootloader_str": [
-      "bitcraze_crazyflie",
-      "Bitcraze AB"
-    ]
-  },
-  {
-    "board_id": 14,
-    "platform": "bitcraze_crazyflie21_default",
-    "USBID": [
-      "0x26ac/0x0016"
-    ],
-    "brand_name": "Bitcraze AB",
-    "manufacturer": "Bitcraze AB",
-    "description": "Firmware for the Crazyflie 2.1",
-    "summary": "CRAZYFLIE 2.1",
-    "bootloader_str": [
-      "bitcraze_crazyflie21",
-      "Bitcraze AB"
-    ]
-  },
-  {
-    "board_id": 1124,
-    "platform": "3dr_ctrl-zero-h7-oem-revg_default",
-    "USBID": [
-      "0x26ac/0x1124",
-      "0x26ac/0x1124"
-    ],
-    "brand_name": "3DR",
-    "manufacturer": "3DR",
-    "description": "Firmware for the 3dr-ctrl-zero-h7-oem-revg board",
-    "summary": "3dr-ctrl-zero-h7-oem-revg",
-    "bootloader_str": [
-      "3dr_ctrl-zero-h7-oem-revg",
-      "3DR"
-    ]
-  },
-  {
-    "board_id": 1123,
-    "platform": "siyi_n7_default",
-    "USBID": [
-      "0x3185/0x0038",
-      "0x3185/0x0038"
-    ],
-    "brand_name": "Siyi",
-    "manufacturer": "Siyi",
-    "description": "Firmware for the N7 board",
-    "summary": "N7",
-    "bootloader_str": [
-      "siyi_n7",
-      "Siyi"
-    ]
-  },
-  {
-    "board_id": 42,
-    "platform": "flywoo_gn-f405_default",
-    "USBID": [
-      "0x26ac/0x0001"
-    ],
-    "brand_name": "Flywoo",
-    "manufacturer": "Flywoo",
-    "description": "Firmware for the FLYWOO GNF405 board",
-    "summary": "flywoo/GNF405",
-    "bootloader_str": [
-      "flywoo_gn-f405",
-      "Flywoo"
-    ]
-  },
-  {
     "board_id": 41777,
     "platform": "modalai_voxl2-io_default",
     "USBID": [],
@@ -360,561 +43,20 @@
     ]
   },
   {
-    "board_id": 20,
-    "platform": "uvify_core_default",
+    "board_id": 28,
+    "platform": "nxp_fmuk66-v3_default",
     "USBID": [
-      "0x26ac/0x0012"
+      "0x1FC9/0x001c",
+      "0x1FC9/0x001c",
+      "0x1FC9/0x001c"
     ],
-    "brand_name": "UVify",
-    "manufacturer": "UVify",
-    "description": "Firmware for the UVify Core flight controller",
-    "summary": "UVify Core",
+    "brand_name": "NXP SEMICONDUCTORS",
+    "manufacturer": "NXP SEMICONDUCTORS",
+    "description": "Firmware for the NXPFMUK66v3 board",
+    "summary": "NXPFMUK66v3",
     "bootloader_str": [
-      "uvify_core",
-      "UVify"
-    ]
-  },
-  {
-    "board_id": 42,
-    "platform": "omnibus_f4sd_default",
-    "USBID": [
-      "0x26ac/0x0001"
-    ],
-    "brand_name": "Vertile",
-    "manufacturer": "Vertile",
-    "description": "Firmware for the OmnibusF4SD board",
-    "summary": "PX4/OmnibusF4",
-    "bootloader_str": [
-      "omnibus_f4sd",
-      "Vertile"
-    ]
-  },
-  {
-    "board_id": 60,
-    "platform": "auterion_fmu-v6s_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the AutFMUv6S board",
-    "summary": "AutFMUv6S",
-    "bootloader_str": [
-      "auterion_fmu-v6s"
-    ]
-  },
-  {
-    "board_id": 1013,
-    "platform": "matek_h743_default",
-    "USBID": [
-      "0x1B8C/0x0036",
-      "0x3162/0x004b"
-    ],
-    "brand_name": "Matek",
-    "manufacturer": "Matek",
-    "description": "Firmware for the MatekH743 boards",
-    "summary": "MatekH743",
-    "bootloader_str": [
-      "matek_h743",
-      "Matek"
-    ]
-  },
-  {
-    "board_id": 1013,
-    "platform": "matek_h743-mini_default",
-    "USBID": [
-      "0x1B8C/0x0036",
-      "0x3162/0x004b"
-    ],
-    "brand_name": "Matek",
-    "manufacturer": "Matek",
-    "description": "Firmware for the MatekH743-slim board",
-    "summary": "MatekH743-mini",
-    "bootloader_str": [
-      "matek_h743-mini",
-      "Matek"
-    ]
-  },
-  {
-    "board_id": 1014,
-    "platform": "matek_gnss-m9n-f4_default",
-    "USBID": [
-      "0x120A/0x1004"
-    ],
-    "brand_name": "PX4",
-    "manufacturer": "PX4",
-    "description": "Firmware for the MatekM9nf4can cannode board",
-    "summary": "MateksysGnss-m9n-f4",
-    "bootloader_str": [
-      "matek_gnss-m9n-f4",
-      "PX4"
-    ]
-  },
-  {
-    "board_id": 1013,
-    "platform": "matek_h743-slim_default",
-    "USBID": [
-      "0x1209/0x1013",
-      "0x1209/0x1013"
-    ],
-    "brand_name": "Matek",
-    "manufacturer": "Matek",
-    "description": "Firmware for the MatekH743 board",
-    "summary": "MatekH743",
-    "bootloader_str": [
-      "matek_h743-slim",
-      "Matek"
-    ]
-  },
-  {
-    "board_id": 59,
-    "platform": "ark_fpv_default",
-    "USBID": [
-      "0x3185/0x003B",
-      "0x3185/0x003B"
-    ],
-    "brand_name": "ARK",
-    "manufacturer": "ARK",
-    "description": "Firmware for the ARKFPV board",
-    "summary": "ARKFPV",
-    "bootloader_str": [
-      "ark_fpv",
-      "ARK"
-    ]
-  },
-  {
-    "board_id": 58,
-    "platform": "ark_pi6x_default",
-    "USBID": [
-      "0x3185/0x003A",
-      "0x3185/0x003A"
-    ],
-    "brand_name": "ARK",
-    "manufacturer": "ARK",
-    "description": "Firmware for the ARKPi6X board",
-    "summary": "ARKPi6X",
-    "bootloader_str": [
-      "ark_pi6x",
-      "ARK"
-    ]
-  },
-  {
-    "board_id": 81,
-    "platform": "ark_can-gps_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the ARK gps board",
-    "summary": "ARKGPS",
-    "bootloader_str": [
-      "ark_can-gps"
-    ]
-  },
-  {
-    "board_id": 83,
-    "platform": "ark_cannode_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the ARK CANnode board",
-    "summary": "ARKCANNODE",
-    "bootloader_str": [
-      "ark_cannode"
-    ]
-  },
-  {
-    "board_id": 80,
-    "platform": "ark_can-flow_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the ARK flow board",
-    "summary": "ARKFLOW",
-    "bootloader_str": [
-      "ark_can-flow"
-    ]
-  },
-  {
-    "board_id": 57,
-    "platform": "ark_fmu-v6x_default",
-    "USBID": [
-      "0x3185/0x0039",
-      "0x3185/0x0039"
-    ],
-    "brand_name": "ARK",
-    "manufacturer": "ARK",
-    "description": "Firmware for the ARKFMUv6X board",
-    "summary": "ARKFMUv6X",
-    "bootloader_str": [
-      "ark_fmu-v6x",
-      "ARK"
-    ]
-  },
-  {
-    "board_id": 86,
-    "platform": "ark_teseo-gps_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the ARK Teseo GPS board",
-    "summary": "ARKTESEOGPS",
-    "bootloader_str": [
-      "ark_teseo-gps"
-    ]
-  },
-  {
-    "board_id": 88,
-    "platform": "ark_can-flow-mr_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the ARK Flow MR board",
-    "summary": "ARKFLOWMR",
-    "bootloader_str": [
-      "ark_can-flow-mr"
-    ]
-  },
-  {
-    "board_id": 84,
-    "platform": "ark_septentrio-gps_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the ARK Septentrio GPS board",
-    "summary": "ARKSEPTENTRIOGPS",
-    "bootloader_str": [
-      "ark_septentrio-gps"
-    ]
-  },
-  {
-    "board_id": 82,
-    "platform": "ark_can-rtk-gps_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the ARK RTK GPS board",
-    "summary": "ARKRTKGPS",
-    "bootloader_str": [
-      "ark_can-rtk-gps"
-    ]
-  },
-  {
-    "board_id": 139,
-    "platform": "spracing_h7extreme_default",
-    "USBID": [
-      "0x3162/0x004b"
-    ],
-    "brand_name": "SPRacing",
-    "manufacturer": "SPRacing",
-    "description": "Firmware for the SP Racing H7 Extreme board",
-    "summary": "SPRacing_H7Extreme",
-    "bootloader_str": [
-      "spracing_h7extreme",
-      "SPRacing"
-    ]
-  },
-  {
-    "board_id": 1188,
-    "platform": "corvon_743v1_default",
-    "USBID": [
-      "0x1B8C/0x0036",
-      "0x3162/0x004b"
-    ],
-    "brand_name": "CORVON",
-    "manufacturer": "CORVON",
-    "description": "Firmware for the CORVON743v1 board",
-    "summary": "CORVON743v1",
-    "bootloader_str": [
-      "corvon_743v1",
-      "CORVON"
-    ]
-  },
-  {
-    "board_id": 120,
-    "platform": "cubepilot_cubeyellow_default",
-    "USBID": [
-      "0x2DAE/0x1012"
-    ],
-    "brand_name": "CubePilot",
-    "manufacturer": "CubePilot",
-    "description": "Firmware for the CubePilot CubeYellow board",
-    "summary": "CubeYellow",
-    "bootloader_str": [
-      "cubepilot_cubeyellow",
-      "CubePilot"
-    ]
-  },
-  {
-    "board_id": 10,
-    "platform": "cubepilot_io-v2_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the PX4IOv2 board",
-    "summary": "PX4IOv2",
-    "bootloader_str": [
-      "cubepilot_io-v2"
-    ]
-  },
-  {
-    "board_id": 1063,
-    "platform": "cubepilot_cubeorangeplus_default",
-    "USBID": [
-      "0x2DAE/0x1058",
-      "0x2DAE/0x1058",
-      "0x2DAE/0x1058",
-      "0x2DAE/0x1058"
-    ],
-    "brand_name": "CubePilot",
-    "manufacturer": "CubePilot",
-    "description": "Firmware for the CubePilot CubeOrange+ board",
-    "summary": "CubeOrange+",
-    "bootloader_str": [
-      "cubepilot_cubeorangeplus",
-      "CubePilot"
-    ]
-  },
-  {
-    "board_id": 140,
-    "platform": "cubepilot_cubeorange_default",
-    "USBID": [
-      "0x2DAE/0x1016",
-      "0x2DAE/0x1016",
-      "0x2DAE/0x1016",
-      "0x2DAE/0x1016"
-    ],
-    "brand_name": "CubePilot",
-    "manufacturer": "CubePilot",
-    "description": "Firmware for the CubePilot CubeOrange board",
-    "summary": "CubeOrange",
-    "bootloader_str": [
-      "cubepilot_cubeorange",
-      "CubePilot"
-    ]
-  },
-  {
-    "board_id": 7000,
-    "platform": "cuav_7-nano_default",
-    "USBID": [
-      "0x3163/0x004c",
-      "0x3163/0x004c"
-    ],
-    "brand_name": "CUAV",
-    "manufacturer": "CUAV",
-    "description": "Firmware for the CUAVX7HNano board",
-    "summary": "CUAV7Nano",
-    "bootloader_str": [
-      "cuav_7-nano",
-      "CUAV"
-    ]
-  },
-  {
-    "board_id": 1009,
-    "platform": "cuav_nora_default",
-    "USBID": [
-      "0x3163/0x004c",
-      "0x3163/0x004c"
-    ],
-    "brand_name": "CUAV",
-    "manufacturer": "CUAV",
-    "description": "Firmware for the CUAV Nora board",
-    "summary": "Nora",
-    "bootloader_str": [
-      "cuav_nora",
-      "CUAV"
-    ]
-  },
-  {
-    "board_id": 11,
-    "platform": "cuav_can-gps-v1_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the PX4FMUv4 board",
-    "summary": "PX4FMUv4",
-    "bootloader_str": [
-      "cuav_can-gps-v1"
-    ]
-  },
-  {
-    "board_id": 1010,
-    "platform": "cuav_x7pro_default",
-    "USBID": [
-      "0x3163/0x004c",
-      "0x3163/0x004c",
-      "0x3163/0x004c"
-    ],
-    "brand_name": "CUAV",
-    "manufacturer": "CUAV",
-    "description": "Firmware for the CUAV X7Pro board",
-    "summary": "X7Pro",
-    "bootloader_str": [
-      "cuav_x7pro",
-      "CUAV"
-    ]
-  },
-  {
-    "board_id": 55,
-    "platform": "sky-drones_smartap-airlink_default",
-    "USBID": [
-      "0x0483/0x0037"
-    ],
-    "brand_name": "Sky-Drones",
-    "manufacturer": "Sky-Drones",
-    "description": "Firmware for the SMARTAP AIRLINK board",
-    "summary": "SMARTAP-AIRLINK",
-    "bootloader_str": [
-      "sky-drones_smartap-airlink",
-      "Sky-Drones"
-    ]
-  },
-  {
-    "board_id": 50,
-    "platform": "av_x-v1_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the AV-Xv1 board",
-    "summary": "AV-Xv1",
-    "bootloader_str": [
-      "av_x-v1"
-    ]
-  },
-  {
-    "board_id": 136,
-    "platform": "mro_x21-777_default",
-    "USBID": [
-      "0x26ac/0x0088"
-    ],
-    "brand_name": "mRo",
-    "manufacturer": "mRo",
-    "description": "Firmware for the mRO X2.1-777 board",
-    "summary": "mRO x2.1-777",
-    "bootloader_str": [
-      "mro_x21-777",
-      "mRo"
-    ]
-  },
-  {
-    "board_id": 1022,
-    "platform": "mro_ctrl-zero-classic_default",
-    "USBID": [
-      "0x26ac/0x1022",
-      "0x26ac/0x1022"
-    ],
-    "brand_name": "mRo",
-    "manufacturer": "mRo",
-    "description": "Firmware for the mRo-ctrl-zero-classic board",
-    "summary": "mRo-ctrl-zero-classic",
-    "bootloader_str": [
-      "mro_ctrl-zero-classic",
-      "mRo"
-    ]
-  },
-  {
-    "board_id": 33,
-    "platform": "mro_x21_default",
-    "USBID": [
-      "0x26ac/0x0021"
-    ],
-    "brand_name": "AUAV",
-    "manufacturer": "AUAV",
-    "description": "Firmware for the mRo X2.1 board",
-    "summary": "mRo X2.1",
-    "bootloader_str": [
-      "mro_x21",
-      "AUAV"
-    ]
-  },
-  {
-    "board_id": 141,
-    "platform": "mro_ctrl-zero-f7-oem_default",
-    "USBID": [
-      "0x26ac/0x008D"
-    ],
-    "brand_name": "mRo",
-    "manufacturer": "mRo",
-    "description": "Firmware for the mRo-ctrl-zero-f7-oem board",
-    "summary": "mRo-ctrl-zero-f7-oem",
-    "bootloader_str": [
-      "mro_ctrl-zero-f7-oem",
-      "mRo"
-    ]
-  },
-  {
-    "board_id": 1023,
-    "platform": "mro_ctrl-zero-h7_default",
-    "USBID": [
-      "0x26ac/0x1023",
-      "0x26ac/0x1023"
-    ],
-    "brand_name": "mRo",
-    "manufacturer": "mRo",
-    "description": "Firmware for the mRo-ctrl-zero-h7 board",
-    "summary": "mRo-ctrl-zero-h7",
-    "bootloader_str": [
-      "mro_ctrl-zero-h7",
-      "mRo"
-    ]
-  },
-  {
-    "board_id": 141,
-    "platform": "mro_ctrl-zero-f7_default",
-    "USBID": [
-      "0x26ac/0x008D"
-    ],
-    "brand_name": "mRo",
-    "manufacturer": "mRo",
-    "description": "Firmware for the mRo-ctrl-zero-f7 board",
-    "summary": "mRo-ctrl-zero-f7",
-    "bootloader_str": [
-      "mro_ctrl-zero-f7",
-      "mRo"
-    ]
-  },
-  {
-    "board_id": 1017,
-    "platform": "mro_pixracerpro_default",
-    "USBID": [
-      "0x26ac/0x1017",
-      "0x26ac/0x1017"
-    ],
-    "brand_name": "mRo",
-    "manufacturer": "mRo",
-    "description": "Firmware for the mRo Pixracer Pro board",
-    "summary": "PixracerPro",
-    "bootloader_str": [
-      "mro_pixracerpro",
-      "mRo"
-    ]
-  },
-  {
-    "board_id": 1024,
-    "platform": "mro_ctrl-zero-h7-oem_default",
-    "USBID": [
-      "0x26ac/0x1024",
-      "0x26ac/0x1024"
-    ],
-    "brand_name": "mRo",
-    "manufacturer": "mRo",
-    "description": "Firmware for the mRo-ctrl-zero-h7-oem board",
-    "summary": "mRo-ctrl-zero-h7-oem",
-    "bootloader_str": [
-      "mro_ctrl-zero-h7-oem",
-      "mRo"
-    ]
-  },
-  {
-    "board_id": 85,
-    "platform": "freefly_can-rtk-gps_default",
-    "USBID": [
-      "0x26ac/0x0016"
-    ],
-    "brand_name": "Freefly",
-    "manufacturer": "Freefly",
-    "description": "Firmware for the FreeFly RTK GPS",
-    "summary": "FFRTK",
-    "bootloader_str": [
-      "freefly_can-rtk-gps",
-      "Freefly"
+      "nxp_fmuk66-v3",
+      "NXP SEMICONDUCTORS"
     ]
   },
   {
@@ -950,35 +92,6 @@
   },
   {
     "board_id": 34,
-    "platform": "nxp_ucans32k146_default",
-    "USBID": [],
-    "brand_name": "",
-    "manufacturer": "",
-    "description": "Firmware for the ucans32k146 board",
-    "summary": "UCANS32K146",
-    "bootloader_str": [
-      "nxp_ucans32k146"
-    ]
-  },
-  {
-    "board_id": 28,
-    "platform": "nxp_fmuk66-v3_default",
-    "USBID": [
-      "0x1FC9/0x001c",
-      "0x1FC9/0x001c",
-      "0x1FC9/0x001c"
-    ],
-    "brand_name": "NXP SEMICONDUCTORS",
-    "manufacturer": "NXP SEMICONDUCTORS",
-    "description": "Firmware for the NXPFMUK66v3 board",
-    "summary": "NXPFMUK66v3",
-    "bootloader_str": [
-      "nxp_fmuk66-v3",
-      "NXP SEMICONDUCTORS"
-    ]
-  },
-  {
-    "board_id": 34,
     "platform": "nxp_mr-canhubk3_default",
     "USBID": [],
     "brand_name": "",
@@ -990,81 +103,30 @@
     ]
   },
   {
-    "board_id": 1200,
-    "platform": "x-mav_ap-h743v2_default",
-    "USBID": [
-      "0x1B8C/0x0036",
-      "0x1B8C/0x0036"
-    ],
-    "brand_name": "X-MAV",
-    "manufacturer": "X-MAV",
-    "description": "Firmware for the AP-H743v2 board",
-    "summary": "AP-H743v2",
+    "board_id": 34,
+    "platform": "nxp_ucans32k146_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ucans32k146 board",
+    "summary": "UCANS32K146",
     "bootloader_str": [
-      "x-mav_ap-h743v2",
-      "X-MAV"
+      "nxp_ucans32k146"
     ]
   },
   {
-    "board_id": 1013,
-    "platform": "hkust_nxt-dual_default",
+    "board_id": 88,
+    "platform": "airmind_mindpx-v2_default",
     "USBID": [
-      "0x1B8C/0x0036",
-      "0x3162/0x004b"
+      "0x26ac/0x0030"
     ],
-    "brand_name": "Matek",
-    "manufacturer": "Matek",
-    "description": "Firmware for the MatekH743-slim board",
-    "summary": "MatekH743-mini",
+    "brand_name": "3D Robotics",
+    "manufacturer": "3D Robotics",
+    "description": "Firmware for the MindPXFMUv2 board",
+    "summary": "MindPXFMUv2",
     "bootloader_str": [
-      "hkust_nxt-dual",
-      "Matek"
-    ]
-  },
-  {
-    "board_id": 1013,
-    "platform": "hkust_nxt-v1_default",
-    "USBID": [
-      "0x1B8C/0x0036",
-      "0x3162/0x004b"
-    ],
-    "brand_name": "Matek",
-    "manufacturer": "Matek",
-    "description": "Firmware for the MatekH743-slim board",
-    "summary": "MatekH743-mini",
-    "bootloader_str": [
-      "hkust_nxt-v1",
-      "Matek"
-    ]
-  },
-  {
-    "board_id": 212,
-    "platform": "thepeach_k1_default",
-    "USBID": [
-      "0x35a7/0x0001"
-    ],
-    "brand_name": "ThePeach",
-    "manufacturer": "ThePeach",
-    "description": "Firmware for the ThePeach K1 board",
-    "summary": "ThePeach K1",
-    "bootloader_str": [
-      "thepeach_k1",
-      "ThePeach"
-    ]
-  },
-  {
-    "board_id": 213,
-    "platform": "thepeach_r1_default",
-    "USBID": [
-      "0x35a7/0x0002"
-    ],
-    "brand_name": "ThePeach",
-    "manufacturer": "ThePeach",
-    "description": "Firmware for the ThePeach R1 board",
-    "summary": "ThePeach R1",
-    "bootloader_str": [
-      "thepeach_r1",
-      "ThePeach"
+      "airmind_mindpx-v2",
+      "3D Robotics"
     ]
   },
   {
@@ -1084,17 +146,1018 @@
     ]
   },
   {
-    "board_id": 88,
-    "platform": "airmind_mindpx-v2_default",
+    "board_id": 1166,
+    "platform": "micoair_h743_default",
     "USBID": [
-      "0x26ac/0x0030"
+      "0x1B8C/0x0036",
+      "0x3162/0x004b"
+    ],
+    "brand_name": "MicoAir",
+    "manufacturer": "MicoAir",
+    "description": "Firmware for the MicoAir743 board",
+    "summary": "MicoAir743",
+    "bootloader_str": [
+      "micoair_h743",
+      "MicoAir"
+    ]
+  },
+  {
+    "board_id": 1179,
+    "platform": "micoair_h743-v2_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x3162/0x004b"
+    ],
+    "brand_name": "MicoAir",
+    "manufacturer": "MicoAir",
+    "description": "Firmware for the MicoAir743v2 board",
+    "summary": "MicoAir743v2",
+    "bootloader_str": [
+      "micoair_h743-v2",
+      "MicoAir"
+    ]
+  },
+  {
+    "board_id": 1176,
+    "platform": "micoair_h743-aio_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x3162/0x004b"
+    ],
+    "brand_name": "MicoAir",
+    "manufacturer": "MicoAir",
+    "description": "Firmware for the MicoAir743AIO board",
+    "summary": "MicoAir743AIO",
+    "bootloader_str": [
+      "micoair_h743-aio",
+      "MicoAir"
+    ]
+  },
+  {
+    "board_id": 1017,
+    "platform": "mro_pixracerpro_default",
+    "USBID": [
+      "0x26ac/0x1017",
+      "0x26ac/0x1017"
+    ],
+    "brand_name": "mRo",
+    "manufacturer": "mRo",
+    "description": "Firmware for the mRo Pixracer Pro board",
+    "summary": "PixracerPro",
+    "bootloader_str": [
+      "mro_pixracerpro",
+      "mRo"
+    ]
+  },
+  {
+    "board_id": 1023,
+    "platform": "mro_ctrl-zero-h7_default",
+    "USBID": [
+      "0x26ac/0x1023",
+      "0x26ac/0x1023"
+    ],
+    "brand_name": "mRo",
+    "manufacturer": "mRo",
+    "description": "Firmware for the mRo-ctrl-zero-h7 board",
+    "summary": "mRo-ctrl-zero-h7",
+    "bootloader_str": [
+      "mro_ctrl-zero-h7",
+      "mRo"
+    ]
+  },
+  {
+    "board_id": 1022,
+    "platform": "mro_ctrl-zero-classic_default",
+    "USBID": [
+      "0x26ac/0x1022",
+      "0x26ac/0x1022"
+    ],
+    "brand_name": "mRo",
+    "manufacturer": "mRo",
+    "description": "Firmware for the mRo-ctrl-zero-classic board",
+    "summary": "mRo-ctrl-zero-classic",
+    "bootloader_str": [
+      "mro_ctrl-zero-classic",
+      "mRo"
+    ]
+  },
+  {
+    "board_id": 1024,
+    "platform": "mro_ctrl-zero-h7-oem_default",
+    "USBID": [
+      "0x26ac/0x1024",
+      "0x26ac/0x1024"
+    ],
+    "brand_name": "mRo",
+    "manufacturer": "mRo",
+    "description": "Firmware for the mRo-ctrl-zero-h7-oem board",
+    "summary": "mRo-ctrl-zero-h7-oem",
+    "bootloader_str": [
+      "mro_ctrl-zero-h7-oem",
+      "mRo"
+    ]
+  },
+  {
+    "board_id": 33,
+    "platform": "mro_x21_default",
+    "USBID": [
+      "0x26ac/0x0021"
+    ],
+    "brand_name": "AUAV",
+    "manufacturer": "AUAV",
+    "description": "Firmware for the mRo X2.1 board",
+    "summary": "mRo X2.1",
+    "bootloader_str": [
+      "mro_x21",
+      "AUAV"
+    ]
+  },
+  {
+    "board_id": 141,
+    "platform": "mro_ctrl-zero-f7_default",
+    "USBID": [
+      "0x26ac/0x008D"
+    ],
+    "brand_name": "mRo",
+    "manufacturer": "mRo",
+    "description": "Firmware for the mRo-ctrl-zero-f7 board",
+    "summary": "mRo-ctrl-zero-f7",
+    "bootloader_str": [
+      "mro_ctrl-zero-f7",
+      "mRo"
+    ]
+  },
+  {
+    "board_id": 136,
+    "platform": "mro_x21-777_default",
+    "USBID": [
+      "0x26ac/0x0088"
+    ],
+    "brand_name": "mRo",
+    "manufacturer": "mRo",
+    "description": "Firmware for the mRO X2.1-777 board",
+    "summary": "mRO x2.1-777",
+    "bootloader_str": [
+      "mro_x21-777",
+      "mRo"
+    ]
+  },
+  {
+    "board_id": 141,
+    "platform": "mro_ctrl-zero-f7-oem_default",
+    "USBID": [
+      "0x26ac/0x008D"
+    ],
+    "brand_name": "mRo",
+    "manufacturer": "mRo",
+    "description": "Firmware for the mRo-ctrl-zero-f7-oem board",
+    "summary": "mRo-ctrl-zero-f7-oem",
+    "bootloader_str": [
+      "mro_ctrl-zero-f7-oem",
+      "mRo"
+    ]
+  },
+  {
+    "board_id": 139,
+    "platform": "holybro_durandal-v1_default",
+    "USBID": [
+      "0x3162/0x004b",
+      "0x3162/0x004b"
+    ],
+    "brand_name": "Holybro",
+    "manufacturer": "Holybro",
+    "description": "Firmware for the Durandalv1 board",
+    "summary": "DURANDALv1",
+    "bootloader_str": [
+      "holybro_durandal-v1",
+      "Holybro"
+    ]
+  },
+  {
+    "board_id": 79,
+    "platform": "holybro_can-gps-v1_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the Holybro CAN GPS board",
+    "summary": "HolybroCANGPS",
+    "bootloader_str": [
+      "holybro_can-gps-v1"
+    ]
+  },
+  {
+    "board_id": 1105,
+    "platform": "holybro_kakuteh7-wing_default",
+    "USBID": [
+      "0x3162/0x0051",
+      "0x3162/0x0050"
+    ],
+    "brand_name": "Holybro",
+    "manufacturer": "Holybro",
+    "description": "Firmware for the Holybro KakuteH7-Wing board",
+    "summary": "KAKUTEH7-WING",
+    "bootloader_str": [
+      "holybro_kakuteh7-wing",
+      "Holybro"
+    ]
+  },
+  {
+    "board_id": 87,
+    "platform": "holybro_h-flow_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the Holybro H-Flow board",
+    "summary": "Holybro-H-Flow",
+    "bootloader_str": [
+      "holybro_h-flow"
+    ]
+  },
+  {
+    "board_id": 1053,
+    "platform": "holybro_kakuteh7v2_default",
+    "USBID": [
+      "0x3162/0x0050",
+      "0x3162/0x0050"
+    ],
+    "brand_name": "Holybro",
+    "manufacturer": "Holybro",
+    "description": "Firmware for the KakuteH7v2 board",
+    "summary": "KAKUTEH7V2",
+    "bootloader_str": [
+      "holybro_kakuteh7v2",
+      "Holybro"
+    ]
+  },
+  {
+    "board_id": 1048,
+    "platform": "holybro_kakuteh7_default",
+    "USBID": [
+      "0x3162/0x0050",
+      "0x3162/0x0050"
+    ],
+    "brand_name": "Holybro",
+    "manufacturer": "Holybro",
+    "description": "Firmware for the KakuteH7 board",
+    "summary": "KAKUTEH7",
+    "bootloader_str": [
+      "holybro_kakuteh7",
+      "Holybro"
+    ]
+  },
+  {
+    "board_id": 1058,
+    "platform": "holybro_kakuteh7mini_default",
+    "USBID": [
+      "0x3162/0x0050",
+      "0x3162/0x0050"
+    ],
+    "brand_name": "Holybro",
+    "manufacturer": "Holybro",
+    "description": "Firmware for the KakuteH7Mini board",
+    "summary": "KAKUTEH7MINI",
+    "bootloader_str": [
+      "holybro_kakuteh7mini",
+      "Holybro"
+    ]
+  },
+  {
+    "board_id": 123,
+    "platform": "holybro_kakutef7_default",
+    "USBID": [
+      "0x26ac/0x0050"
+    ],
+    "brand_name": "Holybro",
+    "manufacturer": "Holybro",
+    "description": "Firmware for the Holybro Kakute F7 board",
+    "summary": "KAKUTEF7",
+    "bootloader_str": [
+      "holybro_kakutef7",
+      "Holybro"
+    ]
+  },
+  {
+    "board_id": 5409,
+    "platform": "holybro_kakuteh7dualimu_default",
+    "USBID": [
+      "0x3162/0x0050",
+      "0x3162/0x0050"
+    ],
+    "brand_name": "Holybro",
+    "manufacturer": "Holybro",
+    "description": "Firmware for the KakuteH7 board",
+    "summary": "KAKUTEH7",
+    "bootloader_str": [
+      "holybro_kakuteh7dualimu",
+      "Holybro"
+    ]
+  },
+  {
+    "board_id": 78,
+    "platform": "holybro_pix32v5_default",
+    "USBID": [
+      "0x3162/0x004E"
+    ],
+    "brand_name": "Holybro",
+    "manufacturer": "Holybro",
+    "description": "Firmware for the PX4FMUv5 board",
+    "summary": "PX4FMUv5",
+    "bootloader_str": [
+      "holybro_pix32v5",
+      "Holybro"
+    ]
+  },
+  {
+    "board_id": 139,
+    "platform": "spracing_h7extreme_default",
+    "USBID": [
+      "0x3162/0x004b"
+    ],
+    "brand_name": "SPRacing",
+    "manufacturer": "SPRacing",
+    "description": "Firmware for the SP Racing H7 Extreme board",
+    "summary": "SPRacing_H7Extreme",
+    "bootloader_str": [
+      "spracing_h7extreme",
+      "SPRacing"
+    ]
+  },
+  {
+    "board_id": 42,
+    "platform": "flywoo_gn-f405_default",
+    "USBID": [
+      "0x26ac/0x0001"
+    ],
+    "brand_name": "Flywoo",
+    "manufacturer": "Flywoo",
+    "description": "Firmware for the FLYWOO GNF405 board",
+    "summary": "flywoo/GNF405",
+    "bootloader_str": [
+      "flywoo_gn-f405",
+      "Flywoo"
+    ]
+  },
+  {
+    "board_id": 1188,
+    "platform": "corvon_743v1_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x3162/0x004b"
+    ],
+    "brand_name": "CORVON",
+    "manufacturer": "CORVON",
+    "description": "Firmware for the CORVON743v1 board",
+    "summary": "CORVON743v1",
+    "bootloader_str": [
+      "corvon_743v1",
+      "CORVON"
+    ]
+  },
+  {
+    "board_id": 1013,
+    "platform": "matek_h743_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x3162/0x004b"
+    ],
+    "brand_name": "Matek",
+    "manufacturer": "Matek",
+    "description": "Firmware for the MatekH743 boards",
+    "summary": "MatekH743",
+    "bootloader_str": [
+      "matek_h743",
+      "Matek"
+    ]
+  },
+  {
+    "board_id": 1013,
+    "platform": "matek_h743-mini_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x3162/0x004b"
+    ],
+    "brand_name": "Matek",
+    "manufacturer": "Matek",
+    "description": "Firmware for the MatekH743-slim board",
+    "summary": "MatekH743-mini",
+    "bootloader_str": [
+      "matek_h743-mini",
+      "Matek"
+    ]
+  },
+  {
+    "board_id": 1013,
+    "platform": "matek_h743-slim_default",
+    "USBID": [
+      "0x1209/0x1013",
+      "0x1209/0x1013"
+    ],
+    "brand_name": "Matek",
+    "manufacturer": "Matek",
+    "description": "Firmware for the MatekH743 board",
+    "summary": "MatekH743",
+    "bootloader_str": [
+      "matek_h743-slim",
+      "Matek"
+    ]
+  },
+  {
+    "board_id": 1014,
+    "platform": "matek_gnss-m9n-f4_default",
+    "USBID": [
+      "0x120A/0x1004"
+    ],
+    "brand_name": "PX4",
+    "manufacturer": "PX4",
+    "description": "Firmware for the MatekM9nf4can cannode board",
+    "summary": "MateksysGnss-m9n-f4",
+    "bootloader_str": [
+      "matek_gnss-m9n-f4",
+      "PX4"
+    ]
+  },
+  {
+    "board_id": 57,
+    "platform": "ark_fmu-v6x_default",
+    "USBID": [
+      "0x3185/0x0039",
+      "0x3185/0x0039"
+    ],
+    "brand_name": "ARK",
+    "manufacturer": "ARK",
+    "description": "Firmware for the ARKFMUv6X board",
+    "summary": "ARKFMUv6X",
+    "bootloader_str": [
+      "ark_fmu-v6x",
+      "ARK"
+    ]
+  },
+  {
+    "board_id": 88,
+    "platform": "ark_can-flow-mr_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK Flow MR board",
+    "summary": "ARKFLOWMR",
+    "bootloader_str": [
+      "ark_can-flow-mr"
+    ]
+  },
+  {
+    "board_id": 59,
+    "platform": "ark_fpv_default",
+    "USBID": [
+      "0x3185/0x003B",
+      "0x3185/0x003B"
+    ],
+    "brand_name": "ARK",
+    "manufacturer": "ARK",
+    "description": "Firmware for the ARKFPV board",
+    "summary": "ARKFPV",
+    "bootloader_str": [
+      "ark_fpv",
+      "ARK"
+    ]
+  },
+  {
+    "board_id": 80,
+    "platform": "ark_can-flow_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK flow board",
+    "summary": "ARKFLOW",
+    "bootloader_str": [
+      "ark_can-flow"
+    ]
+  },
+  {
+    "board_id": 82,
+    "platform": "ark_can-rtk-gps_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK RTK GPS board",
+    "summary": "ARKRTKGPS",
+    "bootloader_str": [
+      "ark_can-rtk-gps"
+    ]
+  },
+  {
+    "board_id": 84,
+    "platform": "ark_septentrio-gps_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK Septentrio GPS board",
+    "summary": "ARKSEPTENTRIOGPS",
+    "bootloader_str": [
+      "ark_septentrio-gps"
+    ]
+  },
+  {
+    "board_id": 86,
+    "platform": "ark_teseo-gps_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK Teseo GPS board",
+    "summary": "ARKTESEOGPS",
+    "bootloader_str": [
+      "ark_teseo-gps"
+    ]
+  },
+  {
+    "board_id": 83,
+    "platform": "ark_cannode_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK CANnode board",
+    "summary": "ARKCANNODE",
+    "bootloader_str": [
+      "ark_cannode"
+    ]
+  },
+  {
+    "board_id": 81,
+    "platform": "ark_can-gps_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK gps board",
+    "summary": "ARKGPS",
+    "bootloader_str": [
+      "ark_can-gps"
+    ]
+  },
+  {
+    "board_id": 58,
+    "platform": "ark_pi6x_default",
+    "USBID": [
+      "0x3185/0x003A",
+      "0x3185/0x003A"
+    ],
+    "brand_name": "ARK",
+    "manufacturer": "ARK",
+    "description": "Firmware for the ARKPi6X board",
+    "summary": "ARKPi6X",
+    "bootloader_str": [
+      "ark_pi6x",
+      "ARK"
+    ]
+  },
+  {
+    "board_id": 20,
+    "platform": "uvify_core_default",
+    "USBID": [
+      "0x26ac/0x0012"
+    ],
+    "brand_name": "UVify",
+    "manufacturer": "UVify",
+    "description": "Firmware for the UVify Core flight controller",
+    "summary": "UVify Core",
+    "bootloader_str": [
+      "uvify_core",
+      "UVify"
+    ]
+  },
+  {
+    "board_id": 1013,
+    "platform": "hkust_nxt-v1_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x3162/0x004b"
+    ],
+    "brand_name": "Matek",
+    "manufacturer": "Matek",
+    "description": "Firmware for the MatekH743-slim board",
+    "summary": "MatekH743-mini",
+    "bootloader_str": [
+      "hkust_nxt-v1",
+      "Matek"
+    ]
+  },
+  {
+    "board_id": 1013,
+    "platform": "hkust_nxt-dual_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x3162/0x004b"
+    ],
+    "brand_name": "Matek",
+    "manufacturer": "Matek",
+    "description": "Firmware for the MatekH743-slim board",
+    "summary": "MatekH743-mini",
+    "bootloader_str": [
+      "hkust_nxt-dual",
+      "Matek"
+    ]
+  },
+  {
+    "board_id": 1123,
+    "platform": "siyi_n7_default",
+    "USBID": [
+      "0x3185/0x0038",
+      "0x3185/0x0038"
+    ],
+    "brand_name": "Siyi",
+    "manufacturer": "Siyi",
+    "description": "Firmware for the N7 board",
+    "summary": "N7",
+    "bootloader_str": [
+      "siyi_n7",
+      "Siyi"
+    ]
+  },
+  {
+    "board_id": 50,
+    "platform": "av_x-v1_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the AV-Xv1 board",
+    "summary": "AV-Xv1",
+    "bootloader_str": [
+      "av_x-v1"
+    ]
+  },
+  {
+    "board_id": 120,
+    "platform": "cubepilot_cubeyellow_default",
+    "USBID": [
+      "0x2DAE/0x1012"
+    ],
+    "brand_name": "CubePilot",
+    "manufacturer": "CubePilot",
+    "description": "Firmware for the CubePilot CubeYellow board",
+    "summary": "CubeYellow",
+    "bootloader_str": [
+      "cubepilot_cubeyellow",
+      "CubePilot"
+    ]
+  },
+  {
+    "board_id": 140,
+    "platform": "cubepilot_cubeorange_default",
+    "USBID": [
+      "0x2DAE/0x1016",
+      "0x2DAE/0x1016",
+      "0x2DAE/0x1016",
+      "0x2DAE/0x1016"
+    ],
+    "brand_name": "CubePilot",
+    "manufacturer": "CubePilot",
+    "description": "Firmware for the CubePilot CubeOrange board",
+    "summary": "CubeOrange",
+    "bootloader_str": [
+      "cubepilot_cubeorange",
+      "CubePilot"
+    ]
+  },
+  {
+    "board_id": 10,
+    "platform": "cubepilot_io-v2_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the PX4IOv2 board",
+    "summary": "PX4IOv2",
+    "bootloader_str": [
+      "cubepilot_io-v2"
+    ]
+  },
+  {
+    "board_id": 1063,
+    "platform": "cubepilot_cubeorangeplus_default",
+    "USBID": [
+      "0x2DAE/0x1058",
+      "0x2DAE/0x1058",
+      "0x2DAE/0x1058",
+      "0x2DAE/0x1058"
+    ],
+    "brand_name": "CubePilot",
+    "manufacturer": "CubePilot",
+    "description": "Firmware for the CubePilot CubeOrange+ board",
+    "summary": "CubeOrange+",
+    "bootloader_str": [
+      "cubepilot_cubeorangeplus",
+      "CubePilot"
+    ]
+  },
+  {
+    "board_id": 42,
+    "platform": "diatone_mamba-f405-mk2_default",
+    "USBID": [
+      "0x26ac/0x0001"
+    ],
+    "brand_name": "Diatone",
+    "manufacturer": "Diatone",
+    "description": "Firmware for the MambaF405Mk2 board",
+    "summary": "PX4/MambaF405",
+    "bootloader_str": [
+      "diatone_mamba-f405-mk2",
+      "Diatone"
+    ]
+  },
+  {
+    "board_id": 213,
+    "platform": "thepeach_r1_default",
+    "USBID": [
+      "0x35a7/0x0002"
+    ],
+    "brand_name": "ThePeach",
+    "manufacturer": "ThePeach",
+    "description": "Firmware for the ThePeach R1 board",
+    "summary": "ThePeach R1",
+    "bootloader_str": [
+      "thepeach_r1",
+      "ThePeach"
+    ]
+  },
+  {
+    "board_id": 212,
+    "platform": "thepeach_k1_default",
+    "USBID": [
+      "0x35a7/0x0001"
+    ],
+    "brand_name": "ThePeach",
+    "manufacturer": "ThePeach",
+    "description": "Firmware for the ThePeach K1 board",
+    "summary": "ThePeach K1",
+    "bootloader_str": [
+      "thepeach_k1",
+      "ThePeach"
+    ]
+  },
+  {
+    "board_id": 14,
+    "platform": "bitcraze_crazyflie21_default",
+    "USBID": [
+      "0x26ac/0x0016"
+    ],
+    "brand_name": "Bitcraze AB",
+    "manufacturer": "Bitcraze AB",
+    "description": "Firmware for the Crazyflie 2.1",
+    "summary": "CRAZYFLIE 2.1",
+    "bootloader_str": [
+      "bitcraze_crazyflie21",
+      "Bitcraze AB"
+    ]
+  },
+  {
+    "board_id": 12,
+    "platform": "bitcraze_crazyflie_default",
+    "USBID": [
+      "0x26ac/0x0016"
+    ],
+    "brand_name": "Bitcraze AB",
+    "manufacturer": "Bitcraze AB",
+    "description": "Firmware for the Crazyflie 2.0",
+    "summary": "CRAZYFLIE",
+    "bootloader_str": [
+      "bitcraze_crazyflie",
+      "Bitcraze AB"
+    ]
+  },
+  {
+    "board_id": 97,
+    "platform": "atl_mantis-edu_default",
+    "USBID": [
+      "0x26ac/0x0061"
+    ],
+    "brand_name": "Advanced Technology Labs",
+    "manufacturer": "Advanced Technology Labs",
+    "description": "Firmware for the Advanced Technology Labs (ATL) Mantis EDU (V18S) board",
+    "summary": "atl_mantis-edu",
+    "bootloader_str": [
+      "atl_mantis-edu",
+      "Advanced Technology Labs"
+    ]
+  },
+  {
+    "board_id": 1124,
+    "platform": "3dr_ctrl-zero-h7-oem-revg_default",
+    "USBID": [
+      "0x26ac/0x1124",
+      "0x26ac/0x1124"
+    ],
+    "brand_name": "3DR",
+    "manufacturer": "3DR",
+    "description": "Firmware for the 3dr-ctrl-zero-h7-oem-revg board",
+    "summary": "3dr-ctrl-zero-h7-oem-revg",
+    "bootloader_str": [
+      "3dr_ctrl-zero-h7-oem-revg",
+      "3DR"
+    ]
+  },
+  {
+    "board_id": 85,
+    "platform": "freefly_can-rtk-gps_default",
+    "USBID": [
+      "0x26ac/0x0016"
+    ],
+    "brand_name": "Freefly",
+    "manufacturer": "Freefly",
+    "description": "Firmware for the FreeFly RTK GPS",
+    "summary": "FFRTK",
+    "bootloader_str": [
+      "freefly_can-rtk-gps",
+      "Freefly"
+    ]
+  },
+  {
+    "board_id": 42,
+    "platform": "raspberrypi_pico_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the raspberry pi Pico board",
+    "summary": "RaspberrypiPico",
+    "bootloader_str": [
+      "raspberrypi_pico"
+    ]
+  },
+  {
+    "board_id": 55,
+    "platform": "sky-drones_smartap-airlink_default",
+    "USBID": [
+      "0x0483/0x0037"
+    ],
+    "brand_name": "Sky-Drones",
+    "manufacturer": "Sky-Drones",
+    "description": "Firmware for the SMARTAP AIRLINK board",
+    "summary": "SMARTAP-AIRLINK",
+    "bootloader_str": [
+      "sky-drones_smartap-airlink",
+      "Sky-Drones"
+    ]
+  },
+  {
+    "board_id": 60,
+    "platform": "auterion_fmu-v6s_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the AutFMUv6S board",
+    "summary": "AutFMUv6S",
+    "bootloader_str": [
+      "auterion_fmu-v6s"
+    ]
+  },
+  {
+    "board_id": 1010,
+    "platform": "cuav_x7pro_default",
+    "USBID": [
+      "0x3163/0x004c",
+      "0x3163/0x004c",
+      "0x3163/0x004c"
+    ],
+    "brand_name": "CUAV",
+    "manufacturer": "CUAV",
+    "description": "Firmware for the CUAV X7Pro board",
+    "summary": "X7Pro",
+    "bootloader_str": [
+      "cuav_x7pro",
+      "CUAV"
+    ]
+  },
+  {
+    "board_id": 1009,
+    "platform": "cuav_nora_default",
+    "USBID": [
+      "0x3163/0x004c",
+      "0x3163/0x004c"
+    ],
+    "brand_name": "CUAV",
+    "manufacturer": "CUAV",
+    "description": "Firmware for the CUAV Nora board",
+    "summary": "Nora",
+    "bootloader_str": [
+      "cuav_nora",
+      "CUAV"
+    ]
+  },
+  {
+    "board_id": 11,
+    "platform": "cuav_can-gps-v1_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the PX4FMUv4 board",
+    "summary": "PX4FMUv4",
+    "bootloader_str": [
+      "cuav_can-gps-v1"
+    ]
+  },
+  {
+    "board_id": 7000,
+    "platform": "cuav_7-nano_default",
+    "USBID": [
+      "0x3163/0x004c",
+      "0x3163/0x004c"
+    ],
+    "brand_name": "CUAV",
+    "manufacturer": "CUAV",
+    "description": "Firmware for the CUAVX7HNano board",
+    "summary": "CUAV7Nano",
+    "bootloader_str": [
+      "cuav_7-nano",
+      "CUAV"
+    ]
+  },
+  {
+    "board_id": 1200,
+    "platform": "x-mav_ap-h743v2_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x1B8C/0x0036"
+    ],
+    "brand_name": "X-MAV",
+    "manufacturer": "X-MAV",
+    "description": "Firmware for the AP-H743v2 board",
+    "summary": "AP-H743v2",
+    "bootloader_str": [
+      "x-mav_ap-h743v2",
+      "X-MAV"
+    ]
+  },
+  {
+    "board_id": 42,
+    "platform": "omnibus_f4sd_default",
+    "USBID": [
+      "0x26ac/0x0001"
+    ],
+    "brand_name": "Vertile",
+    "manufacturer": "Vertile",
+    "description": "Firmware for the OmnibusF4SD board",
+    "summary": "PX4/OmnibusF4",
+    "bootloader_str": [
+      "omnibus_f4sd",
+      "Vertile"
+    ]
+  },
+  {
+    "board_id": 9,
+    "platform": "px4_fmu-v3_default",
+    "USBID": [
+      "0x26ac/0x0011"
     ],
     "brand_name": "3D Robotics",
     "manufacturer": "3D Robotics",
-    "description": "Firmware for the MindPXFMUv2 board",
-    "summary": "MindPXFMUv2",
+    "description": "Firmware for the PX4FMUv3 board",
+    "summary": "PX4FMUv3",
     "bootloader_str": [
-      "airmind_mindpx-v2",
+      "px4_fmu-v3",
+      "3D Robotics"
+    ]
+  },
+  {
+    "board_id": 53,
+    "platform": "px4_fmu-v6x_default",
+    "USBID": [
+      "0x3185/0x0035",
+      "0x3185/0x0035"
+    ],
+    "brand_name": "Auterion",
+    "manufacturer": "Auterion",
+    "description": "Firmware for the PX4FMUv6X board",
+    "summary": "PX4FMUv6X",
+    "bootloader_str": [
+      "px4_fmu-v6x",
+      "Auterion"
+    ]
+  },
+  {
+    "board_id": 35,
+    "platform": "px4_fmu-v6xrt_default",
+    "USBID": [
+      "0x3643/0x001d",
+      "0x3643/0x001d"
+    ],
+    "brand_name": "Dronecode Project, Inc.",
+    "manufacturer": "Dronecode Project, Inc.",
+    "description": "Firmware for the PX4FMUv6XRT board",
+    "summary": "PX4FMUv6XRT",
+    "bootloader_str": [
+      "px4_fmu-v6xrt",
+      "Dronecode Project, Inc."
+    ]
+  },
+  {
+    "board_id": 11,
+    "platform": "px4_fmu-v4_default",
+    "USBID": [
+      "0x26ac/0x0012",
+      "0x26ac/0x0012"
+    ],
+    "brand_name": "3D Robotics",
+    "manufacturer": "3D Robotics",
+    "description": "Firmware for the PX4FMUv4 board",
+    "summary": "PX4FMUv4",
+    "bootloader_str": [
+      "px4_fmu-v4",
       "3D Robotics"
     ]
   },
@@ -1120,21 +1183,6 @@
     ]
   },
   {
-    "board_id": 9,
-    "platform": "px4_fmu-v3_default",
-    "USBID": [
-      "0x26ac/0x0011"
-    ],
-    "brand_name": "3D Robotics",
-    "manufacturer": "3D Robotics",
-    "description": "Firmware for the PX4FMUv3 board",
-    "summary": "PX4FMUv3",
-    "bootloader_str": [
-      "px4_fmu-v3",
-      "3D Robotics"
-    ]
-  },
-  {
     "board_id": 51,
     "platform": "px4_fmu-v5x_default",
     "USBID": [
@@ -1151,19 +1199,19 @@
     ]
   },
   {
-    "board_id": 35,
-    "platform": "px4_fmu-v6xrt_default",
+    "board_id": 54,
+    "platform": "px4_fmu-v6u_default",
     "USBID": [
-      "0x3643/0x001d",
-      "0x3643/0x001d"
+      "0x1B8C/0x0036",
+      "0x1B8C/0x0036"
     ],
-    "brand_name": "Dronecode Project, Inc.",
-    "manufacturer": "Dronecode Project, Inc.",
-    "description": "Firmware for the PX4FMUv6XRT board",
-    "summary": "PX4FMUv6XRT",
+    "brand_name": "Gumstix",
+    "manufacturer": "Gumstix",
+    "description": "Firmware for the PX4FMUv6U board",
+    "summary": "PX4FMUv6U",
     "bootloader_str": [
-      "px4_fmu-v6xrt",
-      "Dronecode Project, Inc."
+      "px4_fmu-v6u",
+      "Gumstix"
     ]
   },
   {
@@ -1176,54 +1224,6 @@
     "summary": "PX4IOv2",
     "bootloader_str": [
       "px4_io-v2"
-    ]
-  },
-  {
-    "board_id": 53,
-    "platform": "px4_fmu-v6x_default",
-    "USBID": [
-      "0x3185/0x0035",
-      "0x3185/0x0035"
-    ],
-    "brand_name": "Auterion",
-    "manufacturer": "Auterion",
-    "description": "Firmware for the PX4FMUv6X board",
-    "summary": "PX4FMUv6X",
-    "bootloader_str": [
-      "px4_fmu-v6x",
-      "Auterion"
-    ]
-  },
-  {
-    "board_id": 11,
-    "platform": "px4_fmu-v4_default",
-    "USBID": [
-      "0x26ac/0x0012",
-      "0x26ac/0x0012"
-    ],
-    "brand_name": "3D Robotics",
-    "manufacturer": "3D Robotics",
-    "description": "Firmware for the PX4FMUv4 board",
-    "summary": "PX4FMUv4",
-    "bootloader_str": [
-      "px4_fmu-v4",
-      "3D Robotics"
-    ]
-  },
-  {
-    "board_id": 13,
-    "platform": "px4_fmu-v4pro_default",
-    "USBID": [
-      "0x26ac/0x0013",
-      "0x26ac/0x0013"
-    ],
-    "brand_name": "3D Robotics",
-    "manufacturer": "3D Robotics",
-    "description": "Firmware for the PX4FMUv4PRO board, based on STM32F469",
-    "summary": "PX4FMUv4PRO",
-    "bootloader_str": [
-      "px4_fmu-v4pro",
-      "3D Robotics"
     ]
   },
   {
@@ -1243,6 +1243,22 @@
     ]
   },
   {
+    "board_id": 13,
+    "platform": "px4_fmu-v4pro_default",
+    "USBID": [
+      "0x26ac/0x0013",
+      "0x26ac/0x0013"
+    ],
+    "brand_name": "3D Robotics",
+    "manufacturer": "3D Robotics",
+    "description": "Firmware for the PX4FMUv4PRO board, based on STM32F469",
+    "summary": "PX4FMUv4PRO",
+    "bootloader_str": [
+      "px4_fmu-v4pro",
+      "3D Robotics"
+    ]
+  },
+  {
     "board_id": 9,
     "platform": "px4_fmu-v2_default",
     "USBID": [
@@ -1255,22 +1271,6 @@
     "bootloader_str": [
       "px4_fmu-v2",
       "3D Robotics"
-    ]
-  },
-  {
-    "board_id": 54,
-    "platform": "px4_fmu-v6u_default",
-    "USBID": [
-      "0x1B8C/0x0036",
-      "0x1B8C/0x0036"
-    ],
-    "brand_name": "Gumstix",
-    "manufacturer": "Gumstix",
-    "description": "Firmware for the PX4FMUv6U board",
-    "summary": "PX4FMUv6U",
-    "bootloader_str": [
-      "px4_fmu-v6u",
-      "Gumstix"
     ]
   }
 ]
