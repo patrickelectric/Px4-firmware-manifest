@@ -77,6 +77,22 @@
     ]
   },
   {
+    "board_id": 7120,
+    "platform": "accton-godwit_ga1_default",
+    "USBID": [
+      "0x083A/0x1BD0",
+      "0x083A/0x1BD0"
+    ],
+    "brand_name": "Accton",
+    "manufacturer": "Accton",
+    "description": "Firmware for the AcctonGodwitGA1 board",
+    "summary": "AcctonGodwitGA1",
+    "bootloader_str": [
+      "accton-godwit_ga1",
+      "Accton"
+    ]
+  },
+  {
     "board_id": 55,
     "platform": "sky-drones_smartap-airlink_default",
     "USBID": [
@@ -665,6 +681,22 @@
     "bootloader_str": [
       "xc-fly_xc-slam",
       "X-MAV"
+    ]
+  },
+  {
+    "board_id": 319,
+    "platform": "xc-fly_xc-slim_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x1B8C/0x0036"
+    ],
+    "brand_name": "XC-FLY",
+    "manufacturer": "XC-FLY",
+    "description": "Firmware for the XC-FLY board",
+    "summary": "XC-FLY",
+    "bootloader_str": [
+      "xc-fly_xc-slim",
+      "XC-FLY"
     ]
   },
   {
