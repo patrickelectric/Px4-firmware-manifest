@@ -263,6 +263,18 @@
     ]
   },
   {
+    "board_id": 42,
+    "platform": "espressif_esp32_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ESP32",
+    "summary": "ESP32",
+    "bootloader_str": [
+      "espressif_esp32"
+    ]
+  },
+  {
     "board_id": 20,
     "platform": "uvify_core_default",
     "USBID": [
