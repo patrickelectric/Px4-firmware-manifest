@@ -759,6 +759,18 @@
     ]
   },
   {
+    "board_id": 90,
+    "platform": "ark_f9p-gps_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK F9P GPS",
+    "summary": "ARKF9PGPS",
+    "bootloader_str": [
+      "ark_f9p-gps"
+    ]
+  },
+  {
     "board_id": 92,
     "platform": "ark_dist_default",
     "USBID": [],
@@ -900,6 +912,18 @@
     "summary": "ARKGPS",
     "bootloader_str": [
       "ark_can-gps"
+    ]
+  },
+  {
+    "board_id": 89,
+    "platform": "ark_x20-gps_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK X20 GPS",
+    "summary": "ARKX20GPS",
+    "bootloader_str": [
+      "ark_x20-gps"
     ]
   },
   {
