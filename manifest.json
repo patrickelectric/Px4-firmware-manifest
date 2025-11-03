@@ -732,6 +732,18 @@
     ]
   },
   {
+    "board_id": 93,
+    "platform": "ark_mag_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK MAG board",
+    "summary": "ARKMAG",
+    "bootloader_str": [
+      "ark_mag"
+    ]
+  },
+  {
     "board_id": 1009,
     "platform": "cuav_nora_default",
     "USBID": [
