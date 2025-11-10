@@ -1,6 +1,6 @@
 [
   {
-    "board_id": 1188,
+    "board_id": 1189,
     "platform": "corvon_743v1_default",
     "USBID": [
       "0x3162/0x004b",
@@ -413,6 +413,22 @@
     ]
   },
   {
+    "board_id": 37,
+    "platform": "nxp_mr-tropic_default",
+    "USBID": [
+      "0x1FC9/0x0025",
+      "0x1FC9/0x0025"
+    ],
+    "brand_name": "NXP SEMICONDUCTORS",
+    "manufacturer": "NXP SEMICONDUCTORS",
+    "description": "Firmware for the MR-TROPIC board",
+    "summary": "MR-TROPIC",
+    "bootloader_str": [
+      "nxp_mr-tropic",
+      "NXP SEMICONDUCTORS"
+    ]
+  },
+  {
     "board_id": 36,
     "platform": "nxp_tropic-community_default",
     "USBID": [
@@ -529,6 +545,22 @@
     "summary": "MicoAir743v2",
     "bootloader_str": [
       "micoair_h743-v2",
+      "MicoAir"
+    ]
+  },
+  {
+    "board_id": 1202,
+    "platform": "micoair_h743-lite_default",
+    "USBID": [
+      "0x3162/0x004b",
+      "0x1B8C/0x0036"
+    ],
+    "brand_name": "MicoAir",
+    "manufacturer": "MicoAir",
+    "description": "Firmware for the MicoAir743-Lite board",
+    "summary": "MicoAir743-Lite",
+    "bootloader_str": [
+      "micoair_h743-lite",
       "MicoAir"
     ]
   },
