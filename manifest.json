@@ -1057,6 +1057,22 @@
     ]
   },
   {
+    "board_id": 1203,
+    "platform": "x-mav_ap-h743r1_default",
+    "USBID": [
+      "0x1B8C/0x0036",
+      "0x1B8C/0x0036"
+    ],
+    "brand_name": "X-MAV",
+    "manufacturer": "X-MAV",
+    "description": "Firmware for the AP-H743r1 board",
+    "summary": "AP-H743r1",
+    "bootloader_str": [
+      "x-mav_ap-h743r1",
+      "X-MAV"
+    ]
+  },
+  {
     "board_id": 50,
     "platform": "av_x-v1_default",
     "USBID": [],
