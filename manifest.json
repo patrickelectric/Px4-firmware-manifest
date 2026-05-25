@@ -245,6 +245,22 @@
     ]
   },
   {
+    "board_id": 1186,
+    "platform": "3dr_ctrl-n1_default",
+    "USBID": [
+      "0x26ac/0x1186",
+      "0x26ac/0x1186"
+    ],
+    "brand_name": "3DR",
+    "manufacturer": "3DR",
+    "description": "Firmware for the 3dr-ctrl-n1 board",
+    "summary": "3dr-ctrl-n1",
+    "bootloader_str": [
+      "3dr_ctrl-n1",
+      "3DR"
+    ]
+  },
+  {
     "board_id": 1124,
     "platform": "3dr_ctrl-zero-h7-oem-revg_default",
     "USBID": [
@@ -692,8 +708,8 @@
     "board_id": 1209,
     "platform": "gearup_airbrainh743_default",
     "USBID": [
-      "0x3162/0x004b",
-      "0x3162/0x0050"
+      "0x26ac/0x0050",
+      "0x26ac/0x0050"
     ],
     "brand_name": "Gear Up",
     "manufacturer": "Gear Up",
