@@ -1,5 +1,21 @@
 [
   {
+    "board_id": 1302,
+    "platform": "cbunmanned_h753-som_default",
+    "USBID": [
+      "0x16D0/0x14C6",
+      "0x16D0/0x14C6"
+    ],
+    "brand_name": "CBUnmanned",
+    "manufacturer": "CBUnmanned",
+    "description": "Firmware for the CBUnmanned H753-SOM board",
+    "summary": "CBUnmanned-H753-SOM",
+    "bootloader_str": [
+      "cbunmanned_h753-som",
+      "CBUnmanned"
+    ]
+  },
+  {
     "board_id": 6110,
     "platform": "svehicle_e2_default",
     "USBID": [
@@ -197,6 +213,22 @@
     "bootloader_str": [
       "bitcraze_crazyflie21",
       "Bitcraze AB"
+    ]
+  },
+  {
+    "board_id": 1198,
+    "platform": "aedrox_aedroxh7_default",
+    "USBID": [
+      "0x16d0/0x14fe",
+      "0x16d0/0x14fe"
+    ],
+    "brand_name": "AEDROX",
+    "manufacturer": "AEDROX",
+    "description": "Firmware for the AEDROX AEDROXH7 board",
+    "summary": "AEDROXH7",
+    "bootloader_str": [
+      "aedrox_aedroxh7",
+      "AEDROX"
     ]
   },
   {
