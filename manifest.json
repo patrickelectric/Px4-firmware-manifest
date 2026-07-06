@@ -12,6 +12,21 @@
     ]
   },
   {
+    "board_id": 1211,
+    "platform": "corvon_v5_default",
+    "USBID": [
+      "0x16D0/0x152A"
+    ],
+    "brand_name": "CORVON",
+    "manufacturer": "CORVON",
+    "description": "Firmware for the CORVON_V5 board",
+    "summary": "CORVON_V5",
+    "bootloader_str": [
+      "corvon_v5",
+      "CORVON"
+    ]
+  },
+  {
     "board_id": 1229,
     "platform": "corvon_743v2_default",
     "USBID": [
@@ -1236,6 +1251,22 @@
     "summary": "Nora",
     "bootloader_str": [
       "cuav_nora",
+      "CUAV"
+    ]
+  },
+  {
+    "board_id": 7004,
+    "platform": "cuav_x25-mega_default",
+    "USBID": [
+      "0x3163/0x004c",
+      "0x3163/0x004c"
+    ],
+    "brand_name": "CUAV",
+    "manufacturer": "CUAV",
+    "description": "Firmware for the CUAVX25MEGA board",
+    "summary": "CUAVX25MEGA",
+    "bootloader_str": [
+      "cuav_x25-mega",
       "CUAV"
     ]
   },
