@@ -63,6 +63,22 @@
     ]
   },
   {
+    "board_id": 1218,
+    "platform": "amovlab_flycore_default",
+    "USBID": [
+      "0x1d50/0x61a0",
+      "0x1d50/0x61a0"
+    ],
+    "brand_name": "Amovlab",
+    "manufacturer": "Amovlab",
+    "description": "Firmware for the AMOVLAB Flycore board",
+    "summary": "AMOVLAB Flycore",
+    "bootloader_str": [
+      "amovlab_flycore",
+      "Amovlab"
+    ]
+  },
+  {
     "board_id": 41776,
     "platform": "modalai_fc-v2_default",
     "USBID": [
