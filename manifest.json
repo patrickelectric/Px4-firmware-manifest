@@ -3,8 +3,8 @@
     "board_id": 1123,
     "platform": "siyi_n7_default",
     "USBID": [
-      "0x3185/0x0038",
-      "0x3185/0x0038"
+      "0x3643/0x04B0",
+      "0x3643/0x04B0"
     ],
     "brand_name": "Siyi",
     "manufacturer": "Siyi",
@@ -12,6 +12,22 @@
     "summary": "N7",
     "bootloader_str": [
       "siyi_n7",
+      "Siyi"
+    ]
+  },
+  {
+    "board_id": 1215,
+    "platform": "siyi_unifc-6-pico_default",
+    "USBID": [
+      "0x3643/0x04BF",
+      "0x3643/0x04BF"
+    ],
+    "brand_name": "Siyi",
+    "manufacturer": "Siyi",
+    "description": "Firmware for the SIYI UniFC 6 PICO board",
+    "summary": "SIYI UniFC 6 PICO",
+    "bootloader_str": [
+      "siyi_unifc-6-pico",
       "Siyi"
     ]
   },
@@ -1588,6 +1604,38 @@
     "bootloader_str": [
       "spracing_h7extreme",
       "SPRacing"
+    ]
+  },
+  {
+    "board_id": 5730,
+    "platform": "nwblue_pro-h757_default",
+    "USBID": [
+      "0x2DAE/0x2001",
+      "0x2DAE/0x2001"
+    ],
+    "brand_name": "NWBlue",
+    "manufacturer": "NWBlue",
+    "description": "Firmware for the NWBlue Pro H757",
+    "summary": "NWBlue Pro H757",
+    "bootloader_str": [
+      "nwblue_pro-h757",
+      "NWBlue"
+    ]
+  },
+  {
+    "board_id": 1949,
+    "platform": "agam_fmu-v6xrt_default",
+    "USBID": [
+      "0x3643/0x0002",
+      "0x3643/0x0002"
+    ],
+    "brand_name": "Agam Robotics",
+    "manufacturer": "Agam Robotics",
+    "description": "Firmware for the AGAMFMUv6XRT board",
+    "summary": "AGAMFMUv6XRT",
+    "bootloader_str": [
+      "agam_fmu-v6xrt",
+      "Agam Robotics"
     ]
   },
   {
