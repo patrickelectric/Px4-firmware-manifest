@@ -1395,6 +1395,18 @@
     ]
   },
   {
+    "board_id": 95,
+    "platform": "ark_can-flow-lr_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the ARK Flow LR board",
+    "summary": "ARKFLOWLR",
+    "bootloader_str": [
+      "ark_can-flow-lr"
+    ]
+  },
+  {
     "board_id": 94,
     "platform": "ark_can-flow-mr_default",
     "USBID": [],
