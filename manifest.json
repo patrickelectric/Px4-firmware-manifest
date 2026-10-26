@@ -301,6 +301,18 @@
     ]
   },
   {
+    "board_id": 1939,
+    "platform": "agam_florange_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the Agam FloRange board",
+    "summary": "AGAMFLORANGE",
+    "bootloader_str": [
+      "agam_florange"
+    ]
+  },
+  {
     "board_id": 1013,
     "platform": "hkust_nxt-v1_default",
     "USBID": [
@@ -1256,6 +1268,18 @@
     "bootloader_str": [
       "zenfc_h743",
       "Zenithra Tech"
+    ]
+  },
+  {
+    "board_id": 160,
+    "platform": "aifoundry_erbium_default",
+    "USBID": [],
+    "brand_name": "",
+    "manufacturer": "",
+    "description": "Firmware for the AIFoundry Erbium Minion",
+    "summary": "AIFoundry Erbium",
+    "bootloader_str": [
+      "aifoundry_erbium"
     ]
   },
   {
